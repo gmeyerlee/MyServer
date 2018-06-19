@@ -1,0 +1,216 @@
+{
+  "data" : [
+    {
+      "id": "1",
+      "longitude": "-75.15341464509123",
+      "latitude": "39.981214052568",
+      "description": "This is the description of POI#1",
+      "altitude": "100.0",
+      "name": "POI#1"
+    },
+    {
+      "id": "2",
+      "longitude": "-75.15423540104979",
+      "latitude": "39.981267489215874",
+      "description": "This is the description of POI#2",
+      "altitude": "100.0",
+      "name": "POI#2"
+    },
+    {
+      "id": "3",
+      "longitude": "-75.15509370793455",
+      "latitude": "39.98144013040793",
+      "description": "This is the description of POI#3",
+      "altitude": "100.0",
+      "name": "POI#3"
+    },
+    {
+      "id": "4",
+      "longitude": "-75.1552278183853",
+      "latitude": "39.98079066841947",
+      "description": "This is the description of POI#4",
+      "altitude": "100.0",
+      "name": "POI#4"
+    },
+    {
+      "id": "5",
+      "longitude": "-75.15539143313526",
+      "latitude": "39.98000494956414",
+      "description": "This is the description of POI#5",
+      "altitude": "100.0",
+      "name": "POI#5"
+    },
+    {
+      "id": "6",
+      "longitude": "-75.15459213484877",
+      "latitude": "39.9798678463061",
+      "description": "This is the description of POI#6",
+      "altitude": "100.0",
+      "name": "POI#6"
+    },
+    {
+      "id": "7",
+      "longitude": "-75.1537499212181",
+      "latitude": "39.97976302607962",
+      "description": "This is the description of POI#7",
+      "altitude": "100.0",
+      "name": "POI#7"
+    },
+    {
+      "id": "8",
+      "longitude": "-75.1535889886772",
+      "latitude": "39.98047415622587",
+      "description": "This is the description of POI#8",
+      "altitude": "100.0",
+      "name": "POI#8"
+    }
+  ],
+  "wcdata" : [
+    {
+      "id": "9",
+      "longitude": "-75.15341464509123",
+      "latitude": "39.95657861626136",
+      "description": "This is the description of WCPOI#1",
+      "altitude": "100.0",
+      "name": "WCPOI#1"
+    },
+    {
+      "id": "10",
+      "longitude": "-75.60041424700466",
+      "latitude": "39.955830229143324",
+      "description": "This is the description of WCPOI#2",
+      "altitude": "100.0",
+      "name": "WCPOI#2"
+    },
+    {
+      "id": "11",
+      "longitude": "-75.60114917227475",
+      "latitude": "39.95545603251316",
+      "description": "This is the description of WCPOI#3",
+      "altitude": "100.0",
+      "name": "WCPOI#3"
+    },
+    {
+      "id": "12",
+      "longitude": "-75.6019699282333",
+      "latitude": "39.954929686535024",
+      "description": "This is the description of WCPOI#4",
+      "altitude": "100.0",
+      "name": "WCPOI#4"
+    },
+    {
+      "id": "13",
+      "longitude": "-75.60143348643032",
+      "latitude": "39.95430875755593",
+      "description": "This is the description of WCPOI#5",
+      "altitude": "100.0",
+      "name": "WCPOI#5"
+    },
+    {
+      "id": "14",
+      "longitude": "-75.60078439184872",
+      "latitude": "39.95356856995064",
+      "description": "This is the description of WCPOI#6",
+      "altitude": "100.0",
+      "name": "WCPOI#6"
+    },
+    {
+      "id": "15",
+      "longitude": "-75.6000592707934",
+      "latitude": "39.95277858596295",
+      "description": "This is the description of WCPOI#7",
+      "altitude": "100.0",
+      "name": "WCPOI#7"
+    },
+    {
+      "id": "16",
+      "longitude": "-75.59873694174905",
+      "latitude": "39.95345221619296",
+      "description": "This is the description of WCPOI#8",
+      "altitude": "100.0",
+      "name": "WCPOI#8"
+    }
+  ],
+  "gldata" : [
+    {
+      "id": "17",
+      "longitude": "-75.16018085260743",
+      "latitude": "39.97607725971447",
+      "description": "This is the description of GLPOI#1",
+      "altitude": "100.0",
+      "name": "GLPOI#1"
+    },
+    {
+      "id": "18",
+      "longitude": "-75.16015570689791",
+      "latitude": "39.97620957666909",
+      "description": "This is the description of GLPOI#2",
+      "altitude": "100.0",
+      "name": "GLPOI#2"
+    },
+    {
+      "id": "19",
+      "longitude": "-75.16012284983753",
+      "latitude": "39.97638351526617",
+      "description": "This is the description of GLPOI#3",
+      "altitude": "100.0",
+      "name": "GLPOI#3"
+    },
+    {
+      "id": "20",
+      "longitude": "-75.16008932222479",
+      "latitude": "39.976516602402526",
+      "description": "This is the description of GLPOI#4",
+      "altitude": "100.0",
+      "name": "GLPOI#4"
+    },
+    {
+      "id": "21",
+      "longitude": "-75.1600625001347",
+      "latitude": "39.97663119073206",
+      "description": "This is the description of GLPOI#5",
+      "altitude": "100.0",
+      "name": "GLPOI#5"
+    },
+    {
+      "id": "22",
+      "longitude": "-75.16003299583548",
+      "latitude": "39.976760011508766",
+      "description": "This is the description of GLPOI#6",
+      "altitude": "100.0",
+      "name": "GLPOI#6"
+    },
+    {
+      "id": "23",
+      "longitude": "-75.1600038268125",
+      "latitude": "39.976887600694",
+      "description": "This is the description of GLPOI#7",
+      "altitude": "100.0",
+      "name": "GLPOI#7"
+    },
+    {
+      "id": "24",
+      "longitude": "-75.15996828754305",
+      "latitude": "39.97704423321702",
+      "description": "This is the description of GLPOI#8",
+      "altitude": "100.0",
+      "name": "GLPOI#8"
+    },
+    {
+      "id": "25",
+      "longitude": "-75.15993911851996",
+      "latitude": "39.97717329883705",
+      "description": "This is the description of GLPOI#9",
+      "altitude": "100.0",
+      "name": "GLPOI#9"
+    },
+    {
+      "id": "26",
+      "longitude": "-75.15990726728796",
+      "latitude": "39.97731143234291",
+      "description": "This is the description of GLPOI#10",
+      "altitude": "100.0",
+      "name": "GLPOI#10"
+    }
+  ]
+}
